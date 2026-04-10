@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monilkumar Patel</h1>
-<h3 align="center">A passionate individual with interest aligned in area of Machine Learning and Data Science</h3>
+<h3 align="center">Love to work with complex-data for gaining actionable insights. Machine Learning and Data Science enthusiast with focus on buliding scalable models</h3>
 
 - 🌱 I’m currently learning **Web scraping, Power BI, Tableau**
 
