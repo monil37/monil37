@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Monilkumar Patel</h1>
-<h3 align="center">Machine Learning and Data Science enthusiast with focus on buliding scalable models for extracting knowledge from data</h3>
+<h4 align="center">Machine Learning and Data Science enthusiast with focus on building scalable models for extracting knowledge from data</h4>
 
 - 🌱 I’m currently learning **Web scraping, Power BI, Tableau**
 
