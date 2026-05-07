@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Monilkumar Patel</h1>
 <h4 align="center">Machine Learning and Data Science enthusiast with focus on building scalable models for extracting knowledge from data</h4>
 
-- 🌱 I’m currently learning **Prompt Engineering, Web scraping, Power BI, Tableau**
+- 🌱 I’m currently focusing on topics **Prompt Engineering, LLMs, Agentic AI**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Analytics**
+- 👯 Looking to collaborate on **Data Analytics and ML projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
