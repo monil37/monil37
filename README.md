@@ -30,7 +30,7 @@ Building scalable ML systems | Exploring LLMs & Agentic AI
 ## 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,java,mysql,python,sklearn" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,java,mysql,python,sklearn,git,dotnet" />
 </p>
 
 ---
