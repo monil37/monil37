@@ -1,16 +1,45 @@
 <h1 align="center">Hi 👋, I'm Monilkumar Patel</h1>
-<h4 align="left">Machine Learning and Data Science enthusiast with focus on building scalable models for extracting knowledge from data</h4>
 
-- 🌱 I’m currently focusing on topics **Prompt Engineering, LLMs, Agentic AI**
+<h3 align="center">Machine Learning & Data Science Enthusiast</h3>
 
-- 👯 Looking to collaborate on **Data Analytics and ML projects**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/monilkumar-patel-340965167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="monilkumar-patel-340965167" height="30" width="40" /></a>
+<p align="center">
+Building scalable ML systems | Exploring LLMs & Agentic AI
 </p>
 
-<h3 align="left">Languages and tools:</h3>
-<p align="left">
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40" /> </a>
+---
+
+## 🚀 About Me
+
+- 🌱 Currently focusing on **Prompt Engineering, LLMs, Agentic AI**
+- 🤝 Open to collaborate on **Data Analytics & ML projects**
+- 💡 Passionate about turning **data into actionable insights**
+
+---
+
+## 🌐 Connect with me
+
+<p>
+  <a href="https://linkedin.com/in/monilkumar-patel-340965167" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="linkedin" width="40" height="40"/>
+  </a>
 </p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,java,mysql,python,sklearn" />
+</p>
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech/Tools|
+|--------|------|
+| https://github.com/monil37/Local-LLMs-using-Ollama | Python, Ollama |
+| https://github.com/monil37/Movie-Recommender-System | Jupyter Notebook, Python, Streamlit|
+| https://github.com/monil37/Netflix-Data-Analysis-Power-BI| Power BI |
+
+
