@@ -32,6 +32,7 @@ Building scalable ML systems | Exploring LLMs & Agentic AI
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,html,java,mysql,python,sklearn" />
 </p>
+
 ---
 
 ## 🚀 Featured Projects
