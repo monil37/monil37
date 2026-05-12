@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Monilkumar Patel</h1>
+<h1 align="center">Hi there👋, I'm Monilkumar Patel</h1>
 
 <h3 align="center">Machine Learning & Data Science Enthusiast</h3>
 
@@ -39,7 +39,7 @@ Building scalable ML systems | Exploring LLMs & Agentic AI
 
 | Project | Tech/Tools|
 |--------|------|
-| https://github.com/monil37/Local-LLMs-using-Ollama | Python, Ollama |
+| https://github.com/monil37/Local-LLMs-using-Ollama <br> https://github.com/monil37/local-llm-ollama-langchain | Python, Ollama, Langchain, Agents & tools |
 | https://github.com/monil37/Movie-Recommender-System | Jupyter Notebook, Python, Streamlit|
 | https://github.com/monil37/Netflix-Data-Analysis-Power-BI| Power BI |
 
