@@ -1,29 +1,14 @@
 <h1 align="center">Hi there👋, I'm Monilkumar Patel</h1>
 
-<h3 align="center">Machine Learning & Data Science Enthusiast</h3>
-
-<p align="center">
-Building scalable ML systems | Exploring LLMs & Agentic AI
-</p>
+<h3 align="center">Aspiring Data Engineer | Machine Learning & Data Science Enthusiast </h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently focusing on **Prompt Engineering, LLMs, Agentic AI**
 - 🤝 Open to collaborate on **Data Analytics & ML projects**
+- 🌱 Currently focusing on **Prompt Engineering, LLMs, Agentic AI**
 - 💡 Passionate about turning **data into actionable insights**
-
----
-
-## 🌐 Connect with me
-
-<p>
-  <a href="https://linkedin.com/in/monilkumar-patel-340965167" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="linkedin" width="40" height="40"/>
-  </a>
-</p>
 
 ---
 
