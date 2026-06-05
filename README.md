@@ -27,5 +27,6 @@
 | https://github.com/monil37/Local-LLMs-using-Ollama <br> https://github.com/monil37/local-llm-ollama-langchain | Python, Ollama, Langchain, Agents & tools |
 | https://github.com/monil37/Movie-Recommender-System | Jupyter Notebook, Python, Streamlit|
 | https://github.com/monil37/Netflix-Data-Analysis-Power-BI| Power BI |
+| https://github.com/monil37/Bike-Sales-Analysis-Tableau | Tableau |
 | https://github.com/monil37/SQL-Case-Studies | MySQL Portfolio |
 
