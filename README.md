@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
 - 🤝 Open to collaborate on **Data Analytics & ML projects**
 - 🌱 Currently focusing on **Prompt Engineering, LLMs, Agentic AI**
