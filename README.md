@@ -12,6 +12,17 @@
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Tech/Tools|
+|--------|------|
+| https://github.com/monil37/Local-LLMs-using-Ollama <br> https://github.com/monil37/local-llm-ollama-langchain | Python, Ollama, Langchain, Agents & tools |
+| https://github.com/monil37/Movie-Recommender-System | Jupyter Notebook, Python, Streamlit|
+| https://github.com/monil37/Netflix-Data-Analysis-Power-BI <br> https://github.com/monil37/Power-BI-Classic-Model-Project-| Power BI, DAX |
+| https://github.com/monil37/Bike-Sales-Analysis-Tableau | Tableau |
+| https://github.com/monil37/SQL-Case-Studies | MySQL Portfolio |
+
+---
 ## 🛠️ Languages and Tools
 
 <p>
@@ -19,14 +30,3 @@
 </p>
 
 ---
-
-## 🚀 Featured Projects
-
-| Project | Tech/Tools|
-|--------|------|
-| https://github.com/monil37/Local-LLMs-using-Ollama <br> https://github.com/monil37/local-llm-ollama-langchain | Python, Ollama, Langchain, Agents & tools |
-| https://github.com/monil37/Movie-Recommender-System | Jupyter Notebook, Python, Streamlit|
-| https://github.com/monil37/Netflix-Data-Analysis-Power-BI| Power BI |
-| https://github.com/monil37/Bike-Sales-Analysis-Tableau | Tableau |
-| https://github.com/monil37/SQL-Case-Studies | MySQL Portfolio |
-
