@@ -5,8 +5,8 @@
 ---
 
 ## 🌟 About Me
+Pursuing Master's in Web and Data Science program @ University of Koblenz. Computer Engineering Graduate with strong interests in Data Analytics/Engineering, AI, and Machine Learning.
 
-- 🤝 Open to collaborate on **Data Analytics & ML projects**
 - 💡 Passionate about turning **data into actionable insights**
 - 🌱 Currently focusing on **LLMs, Agentic AI**
 
