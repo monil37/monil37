@@ -1,6 +1,6 @@
 <h1 align="center">Hi there👋, I'm Monilkumar Patel</h1>
 
-<h3 align="center">Aspiring Data Analyst | Machine Learning & Data Science Enthusiast </h3>
+<h3 align="center">Aspiring Data Analyst </h3>
 
 ---
 
